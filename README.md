@@ -3,12 +3,12 @@ Le but de ce projet GitHub est de pouvoir utiliser et reprendre des sauvegardes 
 
 La traduction du jeu (le plus officiellement possible) est réalisée par le Staff Patch du groupe de __Yo-net Watch__ fondé par la [team de __Comy - mfc__](https://comy-mfc.jimdofree.com/%C3%A9quipe/), dont je fais actuellement partie en temps que Testeur et Correcteur.
 
-Mais pour ne pas priver les utilisateurs normaux du jeu qui peuvent aussi nous faire remonter des erreurs, ce projet est mis en public ! 
+Mais pour ne pas priver les utilisateurs normaux du jeu qui peuvent aussi nous faire remonter des erreurs, ce projet est mis en public ! <br>
 De cette façon, nos concurrents auront aussi accès à cette ressource, ce qui prouve que nous travaillons à la loyale en leur partageant NOTRE travail !
 
-Vous pourrez donc retrouver dans les "releases" les chapitres d'histoire sous la forme "sousChapitre-chapitre".
-Exemple pour le chapitre 1 partie 4: 1-4
+Vous pourrez donc retrouver dans les "releases" les chapitres d'histoire sous la forme "sousChapitre-chapitre".<br>
+Exemple pour le chapitre 1 partie 4: 1-4<br>
 Exemple pour le chapitre 2 partie 3: 2-3
 
-Merci de votre lecture et soutien,
+Merci de votre lecture et soutien,<br>
 Bon jeu 👍
