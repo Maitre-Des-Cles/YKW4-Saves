@@ -6,9 +6,10 @@ La traduction du jeu (le plus officiellement possible) est réalisée par le Sta
 Mais pour ne pas priver les utilisateurs normaux du jeu qui peuvent aussi nous faire remonter des erreurs, ce projet est mis en public ! <br>
 De cette façon, nos concurrents auront aussi accès à cette ressource, ce qui prouve que nous travaillons à la loyale en leur partageant NOTRE travail !
 
-Vous pourrez donc retrouver dans les "releases" les chapitres d'histoire sous la forme "sousChapitre-chapitre".<br>
-Exemple pour le chapitre 1 partie 4: 1-4<br>
-Exemple pour le chapitre 2 partie 3: 2-3
+Vous pourrez donc retrouver dans les "releases" les chapitres d'histoire sous la forme "Chapitre-sousChapitre( - Nombre de quêtes clés)".<br>
+Exemple pour le chapitre 1 partie 4: `1-4`<br>
+Exemple pour le chapitre 6 partie 5: `6-5`<br>
+Exemple pour le chapitre 2 partie 3 avec quêtes clés: `2-3 - 1 quêtes clés sur 3`
 
 Merci de votre lecture et soutien,<br>
 Bon jeu 👍
